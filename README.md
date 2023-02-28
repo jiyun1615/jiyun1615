@@ -1,12 +1,21 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
  -->
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=jiyun1615&show_icons=true&theme=radical)](https://github.com/jiyun1615)
 
-### Hi there 👋
+<!-- # Hello. This is Jay's Github. -->
+## 자기소개
 
+Name : Jay<br>
+Email : yunn1999@naver.com<br>
+Major : IT Computer Science<br>
+
+## 하는 일
+ * 멀티캠퍼스 자바 백엔드 강의 수강중
+
+
+ ### More
+
+<!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=jiyun1615&show_icons=true&theme=radical)](https://github.com/jiyun1615) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyun1615&layout=compact)](https://github.com/jiyun1615/github-readme-stats)
-
----
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
