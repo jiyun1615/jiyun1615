@@ -1,27 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+ -->
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=jiyun1615&show_icons=true&theme=radical)](https://github.com/jiyun1615)
 
 ### Hi there 👋
-
-##HI <br>
-#Hello
-
-**두껍게**<br>
-*이탤릭*<br>
-~~스트라이크~~ <br>
-
-> 인용구
-* 1번
-* 2번
-
-
-[NAVER](www.naver.com)
-
-
-
-
-
 
 
 
