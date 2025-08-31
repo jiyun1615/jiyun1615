@@ -9,7 +9,7 @@ Email : yunn1999@naver.com<br>
 Major : IT Computer Science<br>
 
 ## 하는 일
- * 비젠트로 기술연구소 재직중
+ * 비젠트로 기술연구소 재직중 (23.08 ~ )
 
 
  ### More
