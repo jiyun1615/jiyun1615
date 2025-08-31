@@ -9,7 +9,7 @@ Email : yunn1999@naver.com<br>
 Major : IT Computer Science<br>
 
 ## 하는 일
- * 멀티캠퍼스 자바 백엔드 강의 수강중
+ * 비젠트로 기술연구소 재직중
 
 
  ### More
